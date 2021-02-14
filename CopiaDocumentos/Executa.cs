@@ -177,8 +177,8 @@ namespace CopiaDocumentos
 
                 //ListarArquivos(servico);
 
-                Deletar(servico, diretorioDestino);
-                Console.WriteLine("Arquivo mais antigo apagado com sucesso...");
+               // Deletar(servico, diretorioDestino);
+              //  Console.WriteLine("Arquivo mais antigo apagado com sucesso...");
 
                 Console.WriteLine("Inicio Cópia Arquivos...");
                 Upload(servico, BuscaArquivos(diretorioOrigem), diretorioDestino);

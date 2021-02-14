@@ -43,3 +43,27 @@ C:\Users\Lazari\Documents\Visual Studio 2017\Projects\CopiaDocumentos\CopiaDocum
 C:\Users\flcosta\Documents\Visual Studio 2015\Projects\CopiaDocumentos\CopiaDocumentos\obj\Debug\CopiaDocumentos.csprojResolveAssemblyReference.cache
 C:\Users\flcosta\Documents\Visual Studio 2015\Projects\CopiaDocumentos\CopiaDocumentos\obj\Debug\CopiaDocumentos.csproj.CoreCompileInputs.cache
 C:\Users\flcosta\Documents\Visual Studio 2015\Projects\CopiaDocumentos\CopiaDocumentos\obj\Debug\CopiaDocumentos.csproj.CopyComplete
+C:\Users\Lazari\source\repos\MeuRepository\CopiaDocumentos\CopiaDocumentos\bin\Debug\CopiaDocumentos.exe.config
+C:\Users\Lazari\source\repos\MeuRepository\CopiaDocumentos\CopiaDocumentos\bin\Debug\CopiaDocumentos.exe
+C:\Users\Lazari\source\repos\MeuRepository\CopiaDocumentos\CopiaDocumentos\bin\Debug\CopiaDocumentos.pdb
+C:\Users\Lazari\source\repos\MeuRepository\CopiaDocumentos\CopiaDocumentos\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Lazari\source\repos\MeuRepository\CopiaDocumentos\CopiaDocumentos\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Lazari\source\repos\MeuRepository\CopiaDocumentos\CopiaDocumentos\bin\Debug\Google.Apis.Core.dll
+C:\Users\Lazari\source\repos\MeuRepository\CopiaDocumentos\CopiaDocumentos\bin\Debug\Google.Apis.dll
+C:\Users\Lazari\source\repos\MeuRepository\CopiaDocumentos\CopiaDocumentos\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\Lazari\source\repos\MeuRepository\CopiaDocumentos\CopiaDocumentos\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Lazari\source\repos\MeuRepository\CopiaDocumentos\CopiaDocumentos\bin\Debug\MimeTypeMap.dll
+C:\Users\Lazari\source\repos\MeuRepository\CopiaDocumentos\CopiaDocumentos\bin\Debug\MimeTypeMap.List.dll
+C:\Users\Lazari\source\repos\MeuRepository\CopiaDocumentos\CopiaDocumentos\bin\Debug\MimeTypes.Core.dll
+C:\Users\Lazari\source\repos\MeuRepository\CopiaDocumentos\CopiaDocumentos\bin\Debug\MimeTypesMap.dll
+C:\Users\Lazari\source\repos\MeuRepository\CopiaDocumentos\CopiaDocumentos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lazari\source\repos\MeuRepository\CopiaDocumentos\CopiaDocumentos\bin\Debug\Google.Apis.xml
+C:\Users\Lazari\source\repos\MeuRepository\CopiaDocumentos\CopiaDocumentos\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Lazari\source\repos\MeuRepository\CopiaDocumentos\CopiaDocumentos\bin\Debug\Google.Apis.Core.xml
+C:\Users\Lazari\source\repos\MeuRepository\CopiaDocumentos\CopiaDocumentos\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\Lazari\source\repos\MeuRepository\CopiaDocumentos\CopiaDocumentos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lazari\source\repos\MeuRepository\CopiaDocumentos\CopiaDocumentos\obj\Debug\CopiaDocumentos.csprojAssemblyReference.cache
+C:\Users\Lazari\source\repos\MeuRepository\CopiaDocumentos\CopiaDocumentos\obj\Debug\CopiaDocumentos.csproj.CoreCompileInputs.cache
+C:\Users\Lazari\source\repos\MeuRepository\CopiaDocumentos\CopiaDocumentos\obj\Debug\CopiaDocumentos.csproj.CopyComplete
+C:\Users\Lazari\source\repos\MeuRepository\CopiaDocumentos\CopiaDocumentos\obj\Debug\CopiaDocumentos.exe
+C:\Users\Lazari\source\repos\MeuRepository\CopiaDocumentos\CopiaDocumentos\obj\Debug\CopiaDocumentos.pdb
